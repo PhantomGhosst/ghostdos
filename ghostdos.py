@@ -3,9 +3,9 @@ import random
 import socket
 import threading
 
-print("                   GhostDos V.1                ")
-print("         Made By PhantomGhost & PhantomFangs   ")
-print("              Time To Ghost These Skids        ")
+print("GhostDos V.1")
+print("Made By PhantomGhost & PhantomFangs")
+print("Time To Ghost These Skids")
 
 target = input("Target: ")
 port = int(input("Port: "))
